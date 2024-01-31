@@ -55,7 +55,6 @@ public boolean palindrome(String sWord)
   }
  }
  return reverse(onlyLetters).equals(onlyLetters);
-  //return false;
 }
 public String reverse(String str)
 {
